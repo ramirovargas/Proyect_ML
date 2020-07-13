@@ -17,4 +17,4 @@ Intersemestral 2020
 
 *   Dentro del Notebook Proyecto_Entrega_2 se encuantra los entregables para este entregables
 
-*   Dentro del NoteBook metada_code Se encuentra al analisis del procesamiento que se hizo a las imagenes
+*   Dentro del NoteBook images_code Se encuentra al analisis del procesamiento que se hizo a las imagenes
