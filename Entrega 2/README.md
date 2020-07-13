@@ -21,5 +21,5 @@ Intersemestral 2020
 
 ## **Link a fuente de Datos**
 
-![](https://www.kaggle.com/c/siim-isic-melanoma-classification/data)
+![https://www.kaggle.com/c/siim-isic-melanoma-classification/data]
 
