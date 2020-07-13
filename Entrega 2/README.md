@@ -18,3 +18,8 @@ Intersemestral 2020
 *   Dentro del Notebook metadata_code se encuantra los entregables
 
 *   Dentro del NoteBook images_code Se encuentra al analisis del procesamiento que se hizo a las imagenes
+
+## **Link a fuente de Datos**
+
+![](https://www.kaggle.com/c/siim-isic-melanoma-classification/data)
+
