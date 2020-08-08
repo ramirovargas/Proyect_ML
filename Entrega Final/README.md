@@ -12,9 +12,11 @@ Intersemestral 2020
 - Ramiro Vargas Salas - 201910642
 - Mateo Laguna Guantiva - 201414158
 
-## Entrega 4
+## Entrega Final
 
-En esta entrega exponemos los principales cambios que realizamos en las dos vías que estamos implementando para la solución del problema.
+# Conclusiones:
 
-1. Clasificación directa de las imágenes mediante redes convolucionales: en el archivo Entrega_4_Undersampling_7folds implementamos la técnica del undersampling, junto con data augmentation con el fin de tener más ejemplos de la clase maligna. Corrimos un randomized grid search para calibrar los parámetros de la red neuronal y obtumimos un mejor desempeño respecto al obtenido en la entrega anterior.
-2. Extracción de características de las imágenes y predicción: en el archivo Entrega 4 - Image Features implementamos la técnica de SMOTE para realizar un oversampling en la clase minoritaria. Probamos de nuevo modelos de ensamblaje y hallamos un desempeño ligeramente mejor respecto a la entrega anterior. 
+
+
+
+## Trabajos Futuros:
