@@ -23,3 +23,6 @@ Intersemestral 2020
 
 
 ### Trabajos Futuros: 
+
+1. Al eliminar la limitante de tiempo que se presentó durante el desarrollo del proyecto, es posible considerar la opción de entrenar la red convolucional empleando todo el conjunto de datos de entrenamiento aplicando las técnicas de *undersampling* y *data augmentation* acompañado de un mayor esfuerzo en la fase de optimización de hiperparámetros.
+2. Haciendo uso de *transfer learning*, se puede emplear un modelo que haya sido pre-entrenado para dar solución a un problema de clasificación de impagenes similar a este. 
