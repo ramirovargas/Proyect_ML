@@ -14,9 +14,9 @@ Intersemestral 2020
 
 ## Entrega Final
 
-# Conclusiones:
+### Conclusiones:
 
 
 
 
-## Trabajos Futuros:
+### Trabajos Futuros:
